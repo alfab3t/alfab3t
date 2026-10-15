@@ -43,52 +43,56 @@ serta aplikasi telemetri mobile (React Native IoT & HSE Emergency Command).
 
 ---
 
-### 🚀 Showcase Proyek Unggulan
+### 🚀 Featured Engineering Projects
 
-<table>
-  <thead>
-    <tr>
-      <th width="50%" align="center">🌐 <b>Web & Enterprise Systems</b></th>
-      <th width="50%" align="center">📱 <b>Mobile, Native & IoT</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <b>🎓 <a href="https://github.com/alfab3t/FE_ASTRA">FE_ASTRA</a> & <a href="https://github.com/alfab3t/SIA-BACKEND">SIA-BACKEND</a></b><br/>
-        <i>Sistem Informasi Akademik (SIA) Tata Kelola Mahasiswa</i><br/>
-        • Modul siklus mahasiswa: Cuti, Drop Out, Resign, dan BAAK.<br/>
-        • <b>Stack:</b> Next.js 15 Turbopack, ASP.NET Core 8, Dapper, SQL Server.
-        <hr/>
-        <b>💼 <a href="https://github.com/alfab3t/FE_CDC">FE_CDC</a> & <a href="https://github.com/alfab3t/BE_CDC">BE_CDC</a></b><br/>
-        <i>Career Development Center & Smart ATS CV Generator</i><br/>
-        • Otomasi CV ATS ekspor PDF, rekrutmen kerja, dan konseling karir.<br/>
-        • <b>Stack:</b> Next.js 15, React 19, MailKit SMTP, SQL Server.
-        <hr/>
-        <b>📋 <a href="https://github.com/alfab3t/proyekfe">proyekfe</a> & <a href="https://github.com/alfab3t/proyekbe">proyekbe</a></b><br/>
-        <i>Pelaksanaan Perkuliahan & Rekapitulasi Industri</i><br/>
-        • Monitoring tatap muka dosen, kuliah pengganti, dan presensi magang.<br/>
-        • <b>Stack:</b> Next.js 15, ASP.NET Core 8, LDAP SSO, Dapper.
-      </td>
-      <td valign="top">
-        <b>📡 <a href="https://github.com/alfab3t/FE_IOT">FE_IOT</a> & <a href="https://github.com/alfab3t/BE_IOT_KEL67">BE_IOT_KEL67</a></b><br/>
-        <i>Smart Campus IoT Telemetry & Environmental Control</i><br/>
-        • Monitoring live Power/Water Meter, kontrol AC/Lampu, dan alarm FCM.<br/>
-        • <b>Stack:</b> React Native, Expo 54, MQTTnet Broker, Firebase.
-        <hr/>
-        <b>🚨 <a href="https://github.com/alfab3t/SHE-NATIVE-DEVELOPMENT-">SHE-NATIVE-DEVELOPMENT-</a></b><br/>
-        <i>HSE / K3 Emergency Command & Asset Inspection Suite</i><br/>
-        • Panic Button darurat, audit QR APAR/Hydrant, dan rute evakuasi.<br/>
-        • <b>Stack:</b> React Native, Zustand, TanStack Query, .NET 8.
-        <hr/>
-        <b>🎬 <a href="https://github.com/alfab3t/DESIGN-POPFLIXX">DESIGN-POPFLIXX</a></b><br/>
-        <i>Next-Gen CLI Cinema POS & Ticketing Engine</i><br/>
-        • Manajemen kasir bioskop modular, reservasi tiket, & inventaris studio.<br/>
-        • <b>Stack:</b> Pure C (C99), CMake Build Pipeline.
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+
+<!-- ROW 1: SIA ECOSYSTEM & SMART CAMPUS IOT -->
+<p align="center">
+  <a href="https://github.com/alfab3t/FE_ASTRA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfab3t&repo=FE_ASTRA&theme=sky&title_color=0059AB&icon_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=CBD5E1" width="48%" alt="FE_ASTRA" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/alfab3t/FE_IOT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfab3t&repo=FE_IOT&theme=sky&title_color=0059AB&icon_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=CBD5E1" width="48%" alt="FE_IOT" />
+  </a>
+</p>
+
+<!-- ROW 2: CAREER DEVELOPMENT CENTER & HSE EMERGENCY -->
+<p align="center">
+  <a href="https://github.com/alfab3t/FE_CDC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfab3t&repo=FE_CDC&theme=sky&title_color=0059AB&icon_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=CBD5E1" width="48%" alt="FE_CDC" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/alfab3t/SHE-NATIVE-DEVELOPMENT-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfab3t&repo=SHE-NATIVE-DEVELOPMENT-&theme=sky&title_color=0059AB&icon_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=CBD5E1" width="48%" alt="SHE-NATIVE" />
+  </a>
+</p>
+
+<!-- ROW 3: LECTURE MANAGEMENT & CINEMA POS -->
+<p align="center">
+  <a href="https://github.com/alfab3t/proyekfe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfab3t&repo=proyekfe&theme=sky&title_color=0059AB&icon_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=CBD5E1" width="48%" alt="proyekfe" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/alfab3t/DESIGN-POPFLIXX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfab3t&repo=DESIGN-POPFLIXX&theme=sky&title_color=0059AB&icon_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=CBD5E1" width="48%" alt="DESIGN-POPFLIXX" />
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<!-- Detailed Project Matrix Table (Clean Zaldigengs32 Style) -->
+| Proyek Unggulan | Arsitektur & Teknologi | Sorotan Fitur Kunci | Repository |
+| :--- | :--- | :--- | :---: |
+| **🎓 SIA Student Life-Cycle** | Next.js 15 Turbopack, ASP.NET Core 8, Dapper, SQL Server | Sistem manajemen siklus mahasiswa: modul Cuti Akademik, Drop Out, Pengunduran Diri, dan integrasi BAAK. | [Lihat Kode](https://github.com/alfab3t/FE_ASTRA) |
+| **💼 Campus Career Center (CDC)** | Next.js 15, React 19, MailKit SMTP, SQL Server, CKEditor 5 | Portal karir & alumni: Builder CV ATS otomatis (export PDF instan), pelacakan tahapan rekrutmen, dan konseling. | [Lihat Kode](https://github.com/alfab3t/FE_CDC) |
+| **📡 Smart Campus IoT Telemetry** | React Native, Expo 54, MQTTnet Broker, Firebase Cloud Messaging | Telemetri sensor real-time: monitoring Power Meter (kWh), debit air, kontrol saklar AC/lampu, dan push alarm. | [Lihat Kode](https://github.com/alfab3t/FE_IOT) |
+| **🚨 HSE Emergency Command Suite** | React Native, Zustand, TanStack Query, .NET 8 Web API | Sistem K3 industri: Panic Button tanggap darurat, audit checklist QR APAR/Hydrant, dan peta jalur evakuasi. | [Lihat Kode](https://github.com/alfab3t/SHE-NATIVE-DEVELOPMENT-) |
+| **📋 Lecture & Internship Tracker** | Next.js 15, ASP.NET Core 8, Dapper, LDAP Campus SSO | Pemantauan tatap muka perkuliahan dosen, alur persetujuan kuliah pengganti, dan rekapitulasi jam magang industri. | [Lihat Kode](https://github.com/alfab3t/proyekfe) |
+| **🎬 Next-Gen Cinema POS** | Pure C (ANSI C / C99), CMake Build Pipeline | POS bioskop performa tinggi: manajemen master data film, penjadwalan tayang studio, reservasi tiket, dan kasir F&B. | [Lihat Kode](https://github.com/alfab3t/DESIGN-POPFLIXX) |
 
 ---
 
