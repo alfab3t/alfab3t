@@ -1,7 +1,7 @@
-<div align="center">
-
-<!-- Futuristic Gradient Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003366,50:0059AB,100:0080FF&height=180&section=header&text=DJOHAN%20BAW&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Manajemen%20Informatika%20%E2%80%A2%20Politeknik%20Astra&descAlignY=68&descSize=18&descColor=BAE6FD" width="100%" />
+<!-- Futuristic Custom Banner Header (Readme-Aura Inspired) -->
+<a href="https://github.com/alfab3t">
+  <img src="./banner.svg" alt="Djohan Bagus Satrya Wicaksana - Profile Banner" width="100%" />
+</a>
 
 <br/><br/>
 
@@ -12,17 +12,23 @@
 
 <br/>
 
-<!-- Contact & Status Badges -->
+<!-- Interactive Contact & Social Links -->
 <p align="center">
+  <a href="https://wa.me/6285943549411" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-085943549411-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  &nbsp;
   <a href="mailto:djohanbaw001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-djohanbaw001%40gmail.com-0059AB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-djohanbaw001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/djohan-manajemen-informatika-018838326/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Djohan_Baw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
   <a href="https://github.com/alfab3t">
-    <img src="https://img.shields.io/badge/GitHub-alfab3t-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-alfab3t-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Campus-Politeknik%20Astra-0059AB?style=flat-square&logoColor=white" alt="Campus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-38BDF8?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Native-0284C7?style=flat-square" alt="Focus" />
 </p>
 
 </div>
