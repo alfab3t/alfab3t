@@ -20,7 +20,7 @@
   <a href="https://github.com/alfab3t">
     <img src="https://img.shields.io/badge/GitHub-alfab3t-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Campus-Politeknik%20Astra-0059AB?style=flat-square&logo=politeknik-astra&logoColor=white" alt="Campus" />
+  <img src="https://img.shields.io/badge/Campus-Politeknik%20Astra-0059AB?style=flat-square&logoColor=white" alt="Campus" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-38BDF8?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Web%20%26%20Native-0284C7?style=flat-square" alt="Focus" />
 </p>
@@ -116,20 +116,15 @@ serta aplikasi telemetri mobile (React Native IoT & HSE Emergency Command).
 
 ### 📊 Statistik GitHub & Aktivitas Coding
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=alfab3t&show_icons=true&theme=sky&title_color=0059AB&icon_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=E2E8F0" height="150" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfab3t&layout=compact&theme=sky&title_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=E2E8F0" height="150" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfab3t&theme=sky&background=FFFFFF&border=E2E8F0&stroke=0059AB&ring=0059AB&fire=0284C7&currStreakLabel=0059AB" height="145" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfab3t&show_icons=true&title_color=0059AB&icon_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=E2E8F0" height="195" alt="Alfab3t Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfab3t&layout=compact&title_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=E2E8F0" height="195" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfab3t&theme=sky&background=FFFFFF&border=E2E8F0&stroke=0059AB&ring=0059AB&fire=0284C7&currStreakLabel=0059AB" height="195" alt="GitHub Streak" />
+</p>
 
 ---
 
