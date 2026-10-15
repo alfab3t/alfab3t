@@ -1,6 +1,6 @@
-<!-- Futuristic Custom Banner Header (Readme-Aura Inspired) -->
+<!-- Futuristic Animated Aura Banner Header (GIF Animation) -->
 <a href="https://github.com/alfab3t">
-  <img src="./banner.svg" alt="Djohan Bagus Satrya Wicaksana - Profile Banner" width="100%" />
+  <img src="./banner_aura.gif" alt="Djohan Bagus Satrya Wicaksana - Profile Aura Banner" width="100%" />
 </a>
 
 <br/><br/>
