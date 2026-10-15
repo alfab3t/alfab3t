@@ -17,12 +17,7 @@
     <a href="https://www.linkedin.com/in/djohan-manajemen-informatika-018838326/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Djohan_Baw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-  </p>
-  <p align="center">
-    <img src="./contact_bar.svg" alt="Contact Bar" width="100%" />
-  </p>
-
-  <br/>
+  </p>  <br/>
 
   <!-- Animated Typing Terminal Subtitle -->
   <a href="https://github.com/alfab3t">
