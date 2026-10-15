@@ -4,23 +4,31 @@
 
   <br/><br/>
 
-  <!-- Contact Bar with Custom Icons (WhatsApp, Gmail, LinkedIn) -->
-  <p align="center">
-    <a href="https://wa.me/6285943549411" target="_blank" style="text-decoration:none;">
-      <img src="./assets/icons/Wa%20icon.jpg" width="20" height="20" style="vertical-align:middle; border-radius:4px;" alt="WhatsApp" />
-      <span style="vertical-align:middle; font-weight:600;"> WhatsApp: 0859-4354-9411</span>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:djohanbaw001@gmail.com" style="text-decoration:none;">
-      <img src="./assets/icons/Gmail.jpg" width="20" height="20" style="vertical-align:middle; border-radius:4px;" alt="Gmail" />
-      <span style="vertical-align:middle; font-weight:600;"> Gmail: djohanbaw001@gmail.com</span>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/djohan-manajemen-informatika-018838326/" target="_blank" style="text-decoration:none;">
-      <img src="./assets/icons/LINKEDIN.jpg" width="20" height="20" style="vertical-align:middle; border-radius:4px;" alt="LinkedIn" />
-      <span style="vertical-align:middle; font-weight:600;"> LinkedIn: in/djohan-manajemen-informatika</span>
-    </a>
-  </p>
+  <!-- Modern Card / Pill Badge Contacts -->
+  <table border="0">
+    <tr>
+      <td align="center" style="padding: 6px 14px; background-color: #F8FAFC; border: 1.5px solid #E2E8F0; border-radius: 20px;">
+        <a href="https://wa.me/6285943549411" target="_blank" style="text-decoration: none; color: #0F172A; font-weight: 600; font-size: 13.5px;">
+          <img src="./assets/icons/Wa%20icon.jpg" width="18" height="18" style="vertical-align: middle; border-radius: 50%;" alt="WA" />
+          <span style="vertical-align: middle;">&nbsp;WhatsApp: <b>0859-4354-9411</b></span>
+        </a>
+      </td>
+      <td width="12"></td>
+      <td align="center" style="padding: 6px 14px; background-color: #F8FAFC; border: 1.5px solid #E2E8F0; border-radius: 20px;">
+        <a href="mailto:djohanbaw001@gmail.com" style="text-decoration: none; color: #0F172A; font-weight: 600; font-size: 13.5px;">
+          <img src="./assets/icons/Gmail.jpg" width="18" height="18" style="vertical-align: middle; border-radius: 50%;" alt="Gmail" />
+          <span style="vertical-align: middle;">&nbsp;Gmail: <b>djohanbaw001@gmail.com</b></span>
+        </a>
+      </td>
+      <td width="12"></td>
+      <td align="center" style="padding: 6px 14px; background-color: #F8FAFC; border: 1.5px solid #E2E8F0; border-radius: 20px;">
+        <a href="https://www.linkedin.com/in/djohan-manajemen-informatika-018838326/" target="_blank" style="text-decoration: none; color: #0F172A; font-weight: 600; font-size: 13.5px;">
+          <img src="./assets/icons/LINKEDIN.jpg" width="18" height="18" style="vertical-align: middle; border-radius: 50%;" alt="LinkedIn" />
+          <span style="vertical-align: middle;">&nbsp;LinkedIn: <b>Djohan Baw</b></span>
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
