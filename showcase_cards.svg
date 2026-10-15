@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 490" width="100%" height="490">
+  <defs>
+    <!-- Card Gradients -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F8FAFC"/>
+    </linearGradient>
+
+    <!-- Card Shadow -->
+    <filter id="shadow" x="-5%" y="-10%" width="110%" height="125%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#0F172A" flood-opacity="0.06"/>
+    </filter>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; font-weight: 700; fill: #0059AB; }
+    .cat { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11px; font-weight: 700; fill: #0284C7; letter-spacing: 0.5px; }
+    .desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12.5px; font-weight: 400; fill: #475569; }
+    .tag { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11px; font-weight: 600; fill: #0F172A; }
+    .tag-box { fill: #E0F2FE; rx: 4px; }
+  </style>
+
+  <!-- ================= ROW 1 ================= -->
+  <!-- 1. SIA ECOSYSTEM CARD -->
+  <g transform="translate(10, 10)">
+    <rect width="455" height="145" rx="12" fill="url(#cardBg)" stroke="#CBD5E1" stroke-width="1.2" filter="url(#shadow)"/>
+    <rect x="20" y="16" width="130" height="20" rx="10" fill="#E0F2FE"/>
+    <text x="32" y="30" class="cat">ENTERPRISE CORE</text>
+    <text x="20" y="58" class="title">🎓 SIA — Student Life-Cycle</text>
+    <text x="20" y="80" class="desc">Sistem Informasi Akademik tata kelola siklus mahasiswa:</text>
+    <text x="20" y="98" class="desc">modul Cuti, Drop Out, Resign, dan integrasi BAAK kampus.</text>
+    
+    <!-- Tags -->
+    <rect x="20" y="112" width="75" height="20" class="tag-box"/>
+    <text x="28" y="126" class="tag">Next.js 15</text>
+    <rect x="103" y="112" width="75" height="20" class="tag-box"/>
+    <text x="111" y="126" class="tag">ASP.NET 8</text>
+    <rect x="186" y="112" width="60" height="20" class="tag-box"/>
+    <text x="194" y="126" class="tag">Dapper</text>
+    <rect x="254" y="112" width="80" height="20" class="tag-box"/>
+    <text x="262" y="126" class="tag">SQL Server</text>
+  </g>
+
+  <!-- 2. SMART CAMPUS IOT CARD -->
+  <g transform="translate(485, 10)">
+    <rect width="455" height="145" rx="12" fill="url(#cardBg)" stroke="#CBD5E1" stroke-width="1.2" filter="url(#shadow)"/>
+    <rect x="20" y="16" width="115" height="20" rx="10" fill="#E0F2FE"/>
+    <text x="32" y="30" class="cat">SMART IOT SUITE</text>
+    <text x="20" y="58" class="title">📡 Smart Campus IoT Telemetry</text>
+    <text x="20" y="80" class="desc">Monitoring telemetri Power/Water Meter secara live,</text>
+    <text x="20" y="98" class="desc">kontrol saklar AC/Lampu gedung, dan alarm realtime FCM.</text>
+    
+    <!-- Tags -->
+    <rect x="20" y="112" width="90" height="20" class="tag-box"/>
+    <text x="28" y="126" class="tag">React Native</text>
+    <rect x="118" y="112" width="60" height="20" class="tag-box"/>
+    <text x="126" y="126" class="tag">Expo 54</text>
+    <rect x="186" y="112" width="70" height="20" class="tag-box"/>
+    <text x="194" y="126" class="tag">MQTTnet</text>
+    <rect x="264" y="112" width="65" height="20" class="tag-box"/>
+    <text x="272" y="126" class="tag">Firebase</text>
+  </g>
+
+  <!-- ================= ROW 2 ================= -->
+  <!-- 3. CAREER DEVELOPMENT CENTER -->
+  <g transform="translate(10, 170)">
+    <rect width="455" height="145" rx="12" fill="url(#cardBg)" stroke="#CBD5E1" stroke-width="1.2" filter="url(#shadow)"/>
+    <rect x="20" y="16" width="110" height="20" rx="10" fill="#E0F2FE"/>
+    <text x="32" y="30" class="cat">CAREER PORTAL</text>
+    <text x="20" y="58" class="title">💼 Campus Career Center (CDC)</text>
+    <text x="20" y="80" class="desc">Portal rekrutmen kerja talenta kampus: Smart ATS CV</text>
+    <text x="20" y="98" class="desc">generator (export PDF), bursa lowongan, dan konseling.</text>
+    
+    <!-- Tags -->
+    <rect x="20" y="112" width="75" height="20" class="tag-box"/>
+    <text x="28" y="126" class="tag">Next.js 15</text>
+    <rect x="103" y="112" width="65" height="20" class="tag-box"/>
+    <text x="111" y="126" class="tag">React 19</text>
+    <rect x="176" y="112" width="65" height="20" class="tag-box"/>
+    <text x="184" y="126" class="tag">MailKit</text>
+    <rect x="249" y="112" width="80" height="20" class="tag-box"/>
+    <text x="257" y="126" class="tag">SQL Server</text>
+  </g>
+
+  <!-- 4. HSE EMERGENCY COMMAND -->
+  <g transform="translate(485, 170)">
+    <rect width="455" height="145" rx="12" fill="url(#cardBg)" stroke="#CBD5E1" stroke-width="1.2" filter="url(#shadow)"/>
+    <rect x="20" y="16" width="135" height="20" rx="10" fill="#E0F2FE"/>
+    <text x="32" y="30" class="cat">SAFETY &amp; HEALTH</text>
+    <text x="20" y="58" class="title">🚨 HSE Emergency Command</text>
+    <text x="20" y="80" class="desc">Ekosistem K3 tanggap darurat: Panic Button evakuasi,</text>
+    <text x="20" y="98" class="desc">audit checklist QR APAR/Hydrant, &amp; peta denah darurat.</text>
+    
+    <!-- Tags -->
+    <rect x="20" y="112" width="90" height="20" class="tag-box"/>
+    <text x="28" y="126" class="tag">React Native</text>
+    <rect x="118" y="112" width="65" height="20" class="tag-box"/>
+    <text x="126" y="126" class="tag">Zustand</text>
+    <rect x="191" y="112" width="75" height="20" class="tag-box"/>
+    <text x="199" y="126" class="tag">TanStack</text>
+    <rect x="274" y="112" width="65" height="20" class="tag-box"/>
+    <text x="282" y="126" class="tag">.NET 8</text>
+  </g>
+
+  <!-- ================= ROW 3 ================= -->
+  <!-- 5. LECTURE & INTERNSHIP TRACKER -->
+  <g transform="translate(10, 330)">
+    <rect width="455" height="145" rx="12" fill="url(#cardBg)" stroke="#CBD5E1" stroke-width="1.2" filter="url(#shadow)"/>
+    <rect x="20" y="16" width="125" height="20" rx="10" fill="#E0F2FE"/>
+    <text x="32" y="30" class="cat">ACADEMIC AUDIT</text>
+    <text x="20" y="58" class="title">📋 Lecture &amp; Internship Tracker</text>
+    <text x="20" y="80" class="desc">Monitoring sesi perkuliahan tatap muka, alur persetujuan</text>
+    <text x="20" y="98" class="desc">kuliah pengganti dosen, &amp; rekapitulasi jam kerja magang.</text>
+    
+    <!-- Tags -->
+    <rect x="20" y="112" width="75" height="20" class="tag-box"/>
+    <text x="28" y="126" class="tag">Next.js 15</text>
+    <rect x="103" y="112" width="75" height="20" class="tag-box"/>
+    <text x="111" y="126" class="tag">ASP.NET 8</text>
+    <rect x="186" y="112" width="70" height="20" class="tag-box"/>
+    <text x="194" y="126" class="tag">LDAP SSO</text>
+    <rect x="264" y="112" width="60" height="20" class="tag-box"/>
+    <text x="272" y="126" class="tag">Dapper</text>
+  </g>
+
+  <!-- 6. NEXT-GEN CINEMA POS -->
+  <g transform="translate(485, 330)">
+    <rect width="455" height="145" rx="12" fill="url(#cardBg)" stroke="#CBD5E1" stroke-width="1.2" filter="url(#shadow)"/>
+    <rect x="20" y="16" width="115" height="20" rx="10" fill="#E0F2FE"/>
+    <text x="32" y="30" class="cat">SYSTEM ENGINE</text>
+    <text x="20" y="58" class="title">🎬 Next-Gen Cinema POS Engine</text>
+    <text x="20" y="80" class="desc">Sistem operasional bioskop modular berkinerja tinggi:</text>
+    <text x="20" y="98" class="desc">jadwal tayang, reservasi bangku tiket, kasir F&amp;B &amp; laporan.</text>
+    
+    <!-- Tags -->
+    <rect x="20" y="112" width="60" height="20" class="tag-box"/>
+    <text x="28" y="126" class="tag">Pure C</text>
+    <rect x="88" y="112" width="55" height="20" class="tag-box"/>
+    <text x="96" y="126" class="tag">C99</text>
+    <rect x="151" y="112" width="60" height="20" class="tag-box"/>
+    <text x="159" y="126" class="tag">CMake</text>
+    <rect x="219" y="112" width="90" height="20" class="tag-box"/>
+    <text x="227" y="126" class="tag">Modular POS</text>
+  </g>
+</svg>

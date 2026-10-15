@@ -46,40 +46,36 @@ serta aplikasi telemetri mobile (React Native IoT & HSE Emergency Command).
 ### 🚀 Featured Engineering Projects
 
 <div align="center">
+  <img src="./showcase_cards.svg" alt="Featured Engineering Projects Showcase" width="100%" />
 
-<!-- ROW 1: SIA ECOSYSTEM & SMART CAMPUS IOT -->
-<p align="center">
-  <a href="https://github.com/alfab3t/FE_ASTRA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfab3t&repo=FE_ASTRA&theme=sky&title_color=0059AB&icon_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=CBD5E1" width="48%" alt="FE_ASTRA" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/alfab3t/FE_IOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfab3t&repo=FE_IOT&theme=sky&title_color=0059AB&icon_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=CBD5E1" width="48%" alt="FE_IOT" />
-  </a>
-</p>
+  <br/><br/>
 
-<!-- ROW 2: CAREER DEVELOPMENT CENTER & HSE EMERGENCY -->
-<p align="center">
-  <a href="https://github.com/alfab3t/FE_CDC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfab3t&repo=FE_CDC&theme=sky&title_color=0059AB&icon_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=CBD5E1" width="48%" alt="FE_CDC" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/alfab3t/SHE-NATIVE-DEVELOPMENT-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfab3t&repo=SHE-NATIVE-DEVELOPMENT-&theme=sky&title_color=0059AB&icon_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=CBD5E1" width="48%" alt="SHE-NATIVE" />
-  </a>
-</p>
-
-<!-- ROW 3: LECTURE MANAGEMENT & CINEMA POS -->
-<p align="center">
-  <a href="https://github.com/alfab3t/proyekfe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfab3t&repo=proyekfe&theme=sky&title_color=0059AB&icon_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=CBD5E1" width="48%" alt="proyekfe" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/alfab3t/DESIGN-POPFLIXX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfab3t&repo=DESIGN-POPFLIXX&theme=sky&title_color=0059AB&icon_color=0059AB&text_color=1E293B&bg_color=FFFFFF&border_color=CBD5E1" width="48%" alt="DESIGN-POPFLIXX" />
-  </a>
-</p>
-
+  <!-- Quick Access Repository Buttons -->
+  <p align="center">
+    <a href="https://github.com/alfab3t/FE_ASTRA" target="_blank">
+      <img src="https://img.shields.io/badge/🎓_SIA_Ecosystem-0059AB?style=for-the-badge&logo=github&logoColor=white" alt="FE_ASTRA" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/alfab3t/FE_IOT" target="_blank">
+      <img src="https://img.shields.io/badge/📡_IoT_Telemetry-0284C7?style=for-the-badge&logo=react&logoColor=white" alt="FE_IOT" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/alfab3t/FE_CDC" target="_blank">
+      <img src="https://img.shields.io/badge/💼_Career_Center-0059AB?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="FE_CDC" />
+    </a>
+    <br/>
+    <a href="https://github.com/alfab3t/SHE-NATIVE-DEVELOPMENT-" target="_blank">
+      <img src="https://img.shields.io/badge/🚨_HSE_Command-DC2626?style=for-the-badge&logo=expo&logoColor=white" alt="SHE_NATIVE" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/alfab3t/proyekfe" target="_blank">
+      <img src="https://img.shields.io/badge/📋_Lecture_Tracker-0284C7?style=for-the-badge&logo=dotnet&logoColor=white" alt="ProyekFE" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/alfab3t/DESIGN-POPFLIXX" target="_blank">
+      <img src="https://img.shields.io/badge/🎬_Cinema_POS-475569?style=for-the-badge&logo=c&logoColor=white" alt="DESIGN_POPFLIXX" />
+    </a>
+  </p>
 </div>
 
 <br/>
