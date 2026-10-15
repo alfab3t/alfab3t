@@ -1,36 +1,33 @@
-<!-- Futuristic Animated Aura Banner Header (GIF Animation) -->
-<a href="https://github.com/alfab3t">
-  <img src="./banner_aura.gif" alt="Djohan Bagus Satrya Wicaksana - Profile Aura Banner" width="100%" />
-</a>
+<!-- Custom Animated Banner Header (Banner gif.gif) -->
+<div align="center">
+  <img src="./banner_djohan.gif" alt="Djohan Bagus Satrya Wicaksana - Profile Banner" width="100%" />
 
-<br/><br/>
+  <br/><br/>
 
-<!-- Animated Typing Terminal Subtitle -->
-<a href="https://github.com/alfab3t">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=0284C7&center=true&vCenter=true&width=800&height=40&lines=Software+Engineer+And+Development+Web+%26+Native;Building+Modern+Enterprise+%26+Cross-Platform+Apps;Fullstack+%7C+C%23+ASP.NET+Core+%E2%80%A2+Next.js+15;Mobile+IoT+Telemetry+%26+HSE+Command+Systems;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG Animation" />
-</a>
+  <!-- Contact Bar with Custom Icons (WhatsApp, Gmail, LinkedIn) -->
+  <p align="center">
+    <a href="https://wa.me/6285943549411" target="_blank" style="text-decoration:none;">
+      <img src="./assets/icons/Wa%20icon.jpg" width="20" height="20" style="vertical-align:middle; border-radius:4px;" alt="WhatsApp" />
+      <span style="vertical-align:middle; font-weight:600;"> WhatsApp: 0859-4354-9411</span>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:djohanbaw001@gmail.com" style="text-decoration:none;">
+      <img src="./assets/icons/Gmail.jpg" width="20" height="20" style="vertical-align:middle; border-radius:4px;" alt="Gmail" />
+      <span style="vertical-align:middle; font-weight:600;"> Gmail: djohanbaw001@gmail.com</span>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/djohan-manajemen-informatika-018838326/" target="_blank" style="text-decoration:none;">
+      <img src="./assets/icons/LINKEDIN.jpg" width="20" height="20" style="vertical-align:middle; border-radius:4px;" alt="LinkedIn" />
+      <span style="vertical-align:middle; font-weight:600;"> LinkedIn: in/djohan-manajemen-informatika</span>
+    </a>
+  </p>
 
-<br/>
+  <br/>
 
-<!-- Interactive Contact & Social Links -->
-<p align="center">
-  <a href="https://wa.me/6285943549411" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-085943549411-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  &nbsp;
-  <a href="mailto:djohanbaw001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-djohanbaw001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/djohan-manajemen-informatika-018838326/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Djohan_Baw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
+  <!-- Animated Typing Terminal Subtitle -->
   <a href="https://github.com/alfab3t">
-    <img src="https://img.shields.io/badge/GitHub-alfab3t-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=0284C7&center=true&vCenter=true&width=800&height=40&lines=Software+Engineer+And+Development+Web+%26+Native;Building+Modern+Enterprise+%26+Cross-Platform+Apps;Fullstack+%7C+C%23+ASP.NET+Core+%E2%80%A2+Next.js+15;Mobile+IoT+Telemetry+%26+HSE+Command+Systems;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG Animation" />
   </a>
-</p>
-
 </div>
 
 ---
