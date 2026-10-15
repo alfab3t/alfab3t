@@ -146,6 +146,36 @@ serta aplikasi telemetri mobile (React Native IoT & HSE Emergency Command).
 
 ---
 
+### 🏆 GitHub Achievements & Milestones
+
+<div align="center">
+  <a href="https://github.com/alfab3t?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" alt="Pull Shark" title="Pull Shark - Merged Pull Requests" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alfab3t?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" alt="YOLO" title="YOLO - Merged without code review" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alfab3t?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" alt="Quickdraw" title="Quickdraw - Closed issue/PR within 5 minutes" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alfab3t?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-735c05d76d8b.png" width="90" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored commits" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alfab3t?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/galaxy-brain-default-871d34571746.png" width="90" alt="Galaxy Brain" title="Galaxy Brain - Answered discussion accepted" />
+  </a>
+</div>
+
+<p align="center">
+  <sub>Klik badge untuk melihat pencapaian aktivitas di tab <b>Achievements</b> akun GitHub</sub>
+</p>
+
+---
+
 <div align="center">
   <sub>© 2026 <b>Djohan Baw</b> • Manajemen Informatika Politeknik Astra • Built with Passion & Precision</sub>
 </div>
