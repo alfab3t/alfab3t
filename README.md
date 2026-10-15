@@ -97,18 +97,9 @@ serta aplikasi telemetri mobile (React Native IoT & HSE Emergency Command).
 
 <br/>
 
-<details>
-<summary><b>🛠️ Rincian Klasifikasi Teknologi</b></summary>
-<br/>
-
-| Pilar | Keahlian / Framework / Tools |
-| :--- | :--- |
-| **Backend & Architecture** | C# ASP.NET Core 8, Dapper Micro-ORM, RESTful Web API, MQTTnet, MailKit, LDAP SSO Directory |
-| **Frontend Web** | Next.js 15 (Turbopack), React 19, Modern JavaScript (ES6+), TypeScript, Bootstrap 5, SASS, Framer Motion |
-| **Mobile Native** | React Native, Expo SDK, Zustand State, TanStack Query, Push Notification (FCM), QR Scanner |
-| **Databases & DevOps** | Microsoft SQL Server, MySQL, Docker Container, GitLab CI/CD, SonarQube Scanner, Git |
-
-</details>
+<div align="center">
+  <img src="./tech_stack_cards.svg" alt="Rincian Klasifikasi Teknologi" width="100%" />
+</div>
 
 ---
 
